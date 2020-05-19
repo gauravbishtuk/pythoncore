@@ -1,4 +1,4 @@
-print("Welcome to Python learning"). 
+print("Welcome to Python learning") 
 def adding(a,b): 
     c=a+b
     return c
