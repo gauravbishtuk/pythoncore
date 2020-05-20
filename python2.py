@@ -1,3 +1,4 @@
+print("Welcome to a Program\n")
 i=1
 while i <= 5: 
     print(i*"* ")
